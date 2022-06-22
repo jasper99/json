@@ -255,5 +255,22 @@
     {
       "image": "sceen-4.jpg"
     }
+  ],
+  "random":[
+    {
+      "id": "rnd-d1",
+      "imageLarge": "random-1-lg.jpg",
+      "imageSmall": "random-1-xs.jpg"
+    },
+    {
+      "id": "rnd-d2",
+      "imageLarge": "random-2-lg.jpg",
+      "imageSmall": "random-2-xs.jpg"
+    },
+    {
+      "id": "rnd-d3",
+      "imageLarge": "random-3-lg.jpg",
+      "imageSmall": "random-3-xs.jpg"
+    }
   ]
 }
